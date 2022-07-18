@@ -271,10 +271,10 @@ button {
 /* Footer */
 .footer {
   background-color: #2f303a;
-}
-.footer-container {
   padding-top: 60px;
   padding-bottom: 60px;
+}
+.footer-container {
 }
 .address {
   padding-top: 20px;
